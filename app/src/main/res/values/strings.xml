@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ABND_Project1</string>
+    <string name="businessName">Kline\'s Computer Repair</string>
+    <string name="businessStreet1">1234 Anywhwere St.</string>
+    <string name="businessCityStateZip">Orlando, FL 32789</string>
+    <string name="businessPhone">407-555-5555</string>
+    <string name="businessDescription1">We are a small computer repair shop located in Orlando, FL.</string>
+    <string name="businessDescription2">We can remove viruses and malware as well as any type of</string>
+    <string name="businessDescription3">PC repair; from a simple defective part replacement to a</string>
+    <string name="businessDescription4">complete teardown and rebuild.  Give us a call.</string>
+
+</resources>
